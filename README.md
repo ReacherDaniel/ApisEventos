@@ -23,4 +23,10 @@ Instálalo ejecutando:
 
 npm install axios
 
+correr el programa:
+
+npm install
+
+node testApis.js
+
 
